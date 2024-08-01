@@ -5,8 +5,7 @@ export const perguntas = [
             {
                 texto: "A fuga é perigosa demais, não vale a pena arriscar a minha vida por isso.",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer.",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                
                 ],
                 proxima: 1,
             },
